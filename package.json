@@ -1,7 +1,6 @@
 {
   "name": "decnode",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -14,5 +13,15 @@
     "express": "^4.18.2",
     "mongoose": "^8.0.2",
     "nodemon": "^3.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Inthusan/crud-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dev-Inthusan/crud-sample/issues"
+  },
+  "homepage": "https://github.com/Dev-Inthusan/crud-sample#readme",
+  "description": ""
 }
